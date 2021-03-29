@@ -3,5 +3,5 @@ function one() {
 }
 
 function three() {
-  console.log("Threeeeee");
+  console.log("Three");
 }
