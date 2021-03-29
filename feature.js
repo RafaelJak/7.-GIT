@@ -3,7 +3,7 @@ function feature() {
 }
 
 function feature123() {
-  console.log("WoW");
+  console.log("super!!!!!");
 }
 
 function feature3() {
