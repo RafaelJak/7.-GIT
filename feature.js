@@ -1,4 +1,7 @@
 function feature() {
+  console.log("Cool");
+}
 
-    console.log("Cool")
+function feature2() {
+  console.log("WoW");
 }
