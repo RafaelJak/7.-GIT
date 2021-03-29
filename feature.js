@@ -2,7 +2,7 @@ function feature() {
   console.log("Cool");
 }
 
-function feature2() {
+function feature123() {
   console.log("WoW");
 }
 
