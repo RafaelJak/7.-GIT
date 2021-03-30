@@ -9,3 +9,7 @@ function feature123() {
 function feature3() {
   console.log("drei");
 }
+
+function gitHub() {
+  console.log("ich bin online");
+}
